@@ -1,0 +1,13 @@
+{
+  "Correo": {
+    "from": "",
+    "to": "",
+    "cc": [],
+  },
+  "SMTP": {
+    "Host": "",
+    "Port": 0,
+    "User": "",
+    "Password": ""
+  }
+}
